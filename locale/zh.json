@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "纯对话预设",
+    "description": "新增一个 Chat模式：只开放联网搜索 web_search，其余工具全部屏蔽，像网页版聊天一样对话。",
+    "detail": "docs/DETAIL.md"
+  }
+}

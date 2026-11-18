@@ -1,0 +1,32 @@
+# Dependencies (the bundle itself has none; these appear only if it is
+# installed or linked as a package or tested in place).
+node_modules/
+pnpm-lock.yaml
+.pnpm-store/
+
+# Package archives and packed output
+*.tgz
+dist/
+
+# Logs and temporary artefacts
+*.log
+npm-debug.log*
+pnpm-debug.log*
+*.tmp
+*.bak
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Local secrets and environment overrides
+.env
+.env.*
+.credentials*
+
+# DSH local state that must never be committed
+.dsh/

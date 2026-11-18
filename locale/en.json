@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Chat preset",
+    "description": "Adds a Chat agent mode with web search as its only tool, for plain conversation with current information.",
+    "detail": "docs/DETAIL.md"
+  }
+}

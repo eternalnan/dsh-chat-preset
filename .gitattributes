@@ -1,0 +1,10 @@
+# Keep one text convention across platforms; Windows checkouts stay LF in the
+# index so diffs do not churn when the bundle is edited on another machine.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
