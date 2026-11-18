@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EternalNaN/dsh-chat-preset.git"
+    "url": "git+https://github.com/eternalnan/dsh-chat-preset.git"
   },
   "exports": {
     ".": "./index.js",
