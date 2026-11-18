@@ -82,6 +82,4 @@ dsh-chat-preset/
 
 ## License
 
-MIT — 见 [LICENSE](LICENSE)。版权署名为 `EternalNaN`（取自本仓库的 git 提交身份），需要改成别的名字/主体时，改 `LICENSE` 里的 `Copyright (c) 2026 EternalNaN` 一行即可。
-
-`package.json` 里的 `license` 与 `repository` 字段已填：`repository.url` 是 `git+https://github.com/eternalnan/dsh-chat-preset.git`，与远程 `origin` 一致。
+本项目以 [MIT 许可证](LICENSE) 发布，Copyright (c) 2026 EternalNaN。
